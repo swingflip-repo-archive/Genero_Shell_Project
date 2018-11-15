@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WorkspaceViewState version="1.0">
+  <ExpandedNodes>
+    <Node path="Test_Shell_App.4pw" type="pm/main-project"/>
+    <Node path="Test_Shell_App.4pw/Group" type="pm/group"/>
+    <Node path="Test_Shell_App.4pw/Packages" type="pm/group"/>
+  </ExpandedNodes>
+  <OpenDocuments/>
+  <CurrentDocument filePath="" module="mod-wp"/>
+</WorkspaceViewState>
